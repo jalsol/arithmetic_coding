@@ -1,0 +1,4 @@
+(test
+ (name test)
+ (libraries alcotest core ac)
+ (deps "./input.txt"))

@@ -1,0 +1,1 @@
+val encode : string -> Q.t

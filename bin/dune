@@ -1,0 +1,4 @@
+(executable
+ (public_name arithmetic_coding)
+ (name main)
+ (libraries ac))

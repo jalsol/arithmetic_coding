@@ -1,0 +1,1 @@
+val decode : Q.t -> string
